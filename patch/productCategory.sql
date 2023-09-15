@@ -1,0 +1,1 @@
+insert into product_category(category_name,description,shop_id) VALUES ('abcd','dcba',1);
